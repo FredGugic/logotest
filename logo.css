@@ -4,12 +4,3 @@ header.dashboard-header nav #header {
   background-position: center left;
   background-repeat: no-repeat;
 }
-
-#advanced-search-control {
-  display: none !important;
-}
-
-#help-block {
-  display: none !important;
-}
-
