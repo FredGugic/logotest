@@ -4,3 +4,18 @@ header.dashboard-header nav #header {
   background-position: center left;
   background-repeat: no-repeat;
 }
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: grey;
+  opacity: 0; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: grey;
+  opacity: 0;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: grey;
+  opacity: 0;
+}
