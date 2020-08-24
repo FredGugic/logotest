@@ -6,10 +6,10 @@ header.dashboard-header nav #header {
 }
 
 #advanced-search-control {
-  display: hidden !important;
+  display: none !important;
 }
 
 #help-block {
-  display: hidden !important;
+  display: none !important;
 }
 
