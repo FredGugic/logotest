@@ -15,7 +15,7 @@ header.dashboard-header nav .navbar-brand {
 
 header.dashboard-header nav #header {
   background-size: 100px 40px;
-  background-image: url("https://static1.squarespace.com/static/5ee2b52663a6ff45c4bb7de1/t/5f0f0483fe55f5160ceb62d9/1596194055499/");
+  background-image: url("https://static1.squarespace.com/static/5ee2b52663a6ff45c4bb7de1/t/5f0f0483fe55f5160ceb62d9/1596194055499/") !important;
   background-position: center left;
   background-repeat: no-repeat;
 }
